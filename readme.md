@@ -54,7 +54,7 @@ $ npm start
 <h1 align=center> Developers </h1>
 
 - [@Thedogecraft](https://github.com/Thedogecraft)
-- [@Minoa](https://github.com/MinoaBaccus)
+- [@Minoa](https://github.com/M1noa)
 - [@Noober](https://github.com/Hackerman2763)
 - [@3kh0](https://github.com/3kh0)
 - [@Ghostly](https://github.com/Ghostly6969)
